@@ -1,4 +1,4 @@
-@cheeaun's life
+@mattcan's (fake) life
 ===============
 
 - 20/06/1985 Born
@@ -20,3 +20,4 @@
 - 07/2010 Second laptop (Dell)
 - 04/03/2012 HackerWeb featured on Hacker News' front page
 - 01/07/2013-~ Software Engineer - Viki
+- 2012-2016 Leader of magic band
